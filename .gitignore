@@ -3,3 +3,7 @@
 
 # Plots
 **/plots
+
+# Models
+*.keras
+*.ckpt
