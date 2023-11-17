@@ -5,5 +5,5 @@
 **/plots
 
 # Models
-*.keras
+classifier.keras
 **/.checkpoints
